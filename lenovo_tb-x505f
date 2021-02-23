@@ -1,0 +1,27 @@
+adb shell
+
+pm uninstall -k --user 0 com.google.android.youtube 				
+pm uninstall -k --user 0 com.google.android.googlequicksearchbox 	
+pm uninstall -k --user 0 com.google.android.apps.tachyon 			
+pm uninstall -k --user 0 com.microsoft.office.outlook 				
+pm uninstall -k --user 0 com.google.android.gm 						
+pm uninstall -k --user 0 com.google.android.apps.maps 				
+pm uninstall -k --user 0 com.google.android.apps.youtube.music 		
+pm uninstall -k --user 0 com.google.android.videos 					
+pm uninstall -k --user 0 com.google.android.apps.photos 			
+pm uninstall -k --user 0 com.google.android.apps.docs 				
+pm uninstall -k --user 0 com.skype.raider 							
+pm uninstall -k --user 0 com.android.chrome 						
+
+#Youtube
+#Google
+#Duo
+#Outlook
+#Gmail
+#Maps
+#Youtube Music
+#Play Videos
+#Google Fotos
+#Google Drive
+#Skype
+#Chrome
