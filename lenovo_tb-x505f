@@ -12,6 +12,8 @@ pm uninstall -k --user 0 com.google.android.apps.photos
 pm uninstall -k --user 0 com.google.android.apps.docs 				
 pm uninstall -k --user 0 com.skype.raider 							
 pm uninstall -k --user 0 com.android.chrome 						
+pm uninstall -k --user 0 com.google.android.apps.nbu.files
+pm uninstall -k --user 0 com.google.android.calendar
 
 #Youtube
 #Google
@@ -25,3 +27,5 @@ pm uninstall -k --user 0 com.android.chrome
 #Google Drive
 #Skype
 #Chrome
+#Files
+#Kalender
